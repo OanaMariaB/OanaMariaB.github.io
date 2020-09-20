@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Sinatral Recipe App"
-date:       2020-09-20 20:13:03 +0000
+date:       2020-09-20 16:13:04 -0400
 permalink:  my_sinatral_recipe_app
 ---
 
